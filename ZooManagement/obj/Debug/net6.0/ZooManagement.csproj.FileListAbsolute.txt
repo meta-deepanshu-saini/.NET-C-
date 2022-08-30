@@ -1,0 +1,15 @@
+C:\Users\Deepanshu\Desktop\C#\ZooManagement\bin\Debug\net6.0\ZooManagement.exe
+C:\Users\Deepanshu\Desktop\C#\ZooManagement\bin\Debug\net6.0\ZooManagement.deps.json
+C:\Users\Deepanshu\Desktop\C#\ZooManagement\bin\Debug\net6.0\ZooManagement.runtimeconfig.json
+C:\Users\Deepanshu\Desktop\C#\ZooManagement\bin\Debug\net6.0\ZooManagement.dll
+C:\Users\Deepanshu\Desktop\C#\ZooManagement\bin\Debug\net6.0\ZooManagement.pdb
+C:\Users\Deepanshu\Desktop\C#\ZooManagement\obj\Debug\net6.0\ZooManagement.csproj.AssemblyReference.cache
+C:\Users\Deepanshu\Desktop\C#\ZooManagement\obj\Debug\net6.0\ZooManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deepanshu\Desktop\C#\ZooManagement\obj\Debug\net6.0\ZooManagement.AssemblyInfoInputs.cache
+C:\Users\Deepanshu\Desktop\C#\ZooManagement\obj\Debug\net6.0\ZooManagement.AssemblyInfo.cs
+C:\Users\Deepanshu\Desktop\C#\ZooManagement\obj\Debug\net6.0\ZooManagement.csproj.CoreCompileInputs.cache
+C:\Users\Deepanshu\Desktop\C#\ZooManagement\obj\Debug\net6.0\ZooManagement.dll
+C:\Users\Deepanshu\Desktop\C#\ZooManagement\obj\Debug\net6.0\refint\ZooManagement.dll
+C:\Users\Deepanshu\Desktop\C#\ZooManagement\obj\Debug\net6.0\ZooManagement.pdb
+C:\Users\Deepanshu\Desktop\C#\ZooManagement\obj\Debug\net6.0\ZooManagement.genruntimeconfig.cache
+C:\Users\Deepanshu\Desktop\C#\ZooManagement\obj\Debug\net6.0\ref\ZooManagement.dll
